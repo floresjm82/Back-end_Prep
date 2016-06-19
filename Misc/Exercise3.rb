@@ -1,0 +1,1 @@
+Exception handling handles errors as they occur in a structured way and allows for the code to continue to be executed despite encountering an error.

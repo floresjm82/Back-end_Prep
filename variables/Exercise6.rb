@@ -1,0 +1,1 @@
+#The variable's ("shoes") scope is limited to the local method where it was created but the variable is being called outside of it which results in an error.
